@@ -1,5 +1,5 @@
 {
-    "name": "alirezamirsepassi/magento-soap-api",
+    "name": "mallerp/magento-soap-api",
     "description": "A simple Magento Integration using SOAP v1 and v2.",
     "license": "GPL",
     "version": "1.0.0",
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|7.30.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|7.30.*"
     },
     "require-dev": {
         "guzzle/guzzle": "^3.7",
